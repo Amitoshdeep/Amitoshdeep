@@ -3,7 +3,7 @@
 <p><em>1st Year BCA Student at <a href="http://www.chitkara.edu.in">Chitkara University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Gaming Content Creator at <a href="https://www.youtube.com/@AmitoshiroNoGameSekai">Amitoshiro no Game Sekai</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![YouTube: Amitoshiro no Game Sekai](https://img.shields.io/youtube/channel/subscribers/UCxxx?style=social)](https://www.youtube.com/@AmitoshiroGameSekai)
+[![YouTube: Amitoshiro no Game Sekai](https://img.shields.io/youtube/channel/subscribers/@AmitoshiroGameSekai?style=social)](https://www.youtube.com/@AmitoshiroGameSekai)
 [![LinkedIn: Amitoshdeep](https://img.shields.io/badge/-Amitoshdeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitoshdeep/)](https://www.linkedin.com/in/amitoshdeep-singh-031631317/)
 [![GitHub Amitoshdeep](https://img.shields.io/github/followers/amitoshdeep?label=follow&style=social)](https://github.com/Amitoshdeep)
 
