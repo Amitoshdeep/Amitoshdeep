@@ -29,7 +29,7 @@ const amitoshdeep = {
 ### 🌟 What Drives Me:
 ✨ Turning dreams into code.  
 🎮 Crafting immersive gaming worlds.  
-🎥 Sharing my journey on YouTube: [Amitoshiro no Game Sekai](https://www.youtube.com/@AmitoshiroGameSekai).  
+🎥 Sharing my journey on YouTube: [Luv2Lag](https://www.youtube.com/@Luv2Lag).  
 💻 Leveling up every day in the gaming and tech universe.  
 
 ---
