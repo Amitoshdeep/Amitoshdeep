@@ -30,10 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Amitoshdeep&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true&hide_rank=true" alt="Amitoshdeep's GitHub Stats" height="150" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amitoshdeep&theme=tokyonight" alt="GitHub Streak" height="150"/> </td> </tr> </table> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitoshdeep&layout=compact&theme=tokyonight" alt="Top Languages" height="130"/> </div>
----
-
 ### ⚙️ Fun Projects Pinned:
 - 💼 **Portfolio** — Personal website: [amitx.netlify.app](https://amitx.netlify.app)
 - 🧠 **TechStacker** — A CLI-based tech quiz in C++
