@@ -1,39 +1,45 @@
-<h1 align="center">Hi 👋, I'm Amitoshdeep Singh</h1>
-<h3 align="center">💻 Full Stack Developer (in training) | MERN Stack Enthusiast | India 🇮🇳</h3>
+<h1 align="center">Yo 👋, I'm Reaper</h1>
+<h3 align="center">💻 Full Stack Developer (in training) | MERN Stack Dev | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FFBF&center=true&vCenter=true&width=435&lines=Currently+Learning+MERN+Stack;Building+Cool+Stuff+%F0%9F%9A%80;I+Think+I'm+Funny+%F0%9F%A4%A3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FFBF&center=true&vCenter=true&width=480&lines=Learning+MERN+Stack;Building+Web+%26+Game+Projects+🚀;Linux+Enjoyer+🐧;I+Think+I'm+Funny+%F0%9F%A4%A3" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🌱 I’m currently learning **MERN Stack**
-- 👨‍💻 Check out my work at: [amitx.netlify.app](https://amitx.netlify.app)
-- 📫 Reach me at: **amitosh1999@gmail.com**
-- ⚡ Fun fact: *I think I'm funny*
+- 🌱 Currently learning **Full Stack Development (MERN)**
+- 🎮 Love building **websites, small games, and random fun stuff**
+- 👨‍💻 Check out my portfolio: [amitx.netlify.app](https://amitx.netlify.app)
+- 📫 Reach me at: **amitosh.dev@outlook.com**
+- ⚡ Fun fact: *Cookies, cats, and code = happiness 🐈🍪*
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/amitoshdeep" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/luv2lag" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/lowkeylazyy" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@Luv2Lag" target="blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,java,nodejs,mysql,git,linux,figma,tailwind,photoshop,unity" />
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,linux,tailwind,figma,photoshop,unity,c,cpp,java" />
 </p>
 
 ---
 
-### ⚙️ Fun Projects Pinned:
-- 💼 **Portfolio** — Personal website: [amitx.netlify.app](https://amitx.netlify.app)
-- 🧠 **TechStacker** — A CLI-based tech quiz in C++
+### ⚙️ Featured Projects
+- 🌐 **Portfolio** — Personal site built with React + Tailwind  
+- 🕹️ **Mystery Button** — Fun mobile game idea in progress  
+- 🔧 **ESP32 MultiTool** — Flipper Zero-inspired project for a hackathon  
 
 ---
 
-*Thanks for visiting my GitHub! Feel free to connect and collab 🤝*
+<p align="center">
+  <em>“Building cool stuff, one bug at a time.”</em> 🧠💻  
+  <br/>
+  <strong>Thanks for stopping by! Let’s connect 🤝</strong>
+</p>
