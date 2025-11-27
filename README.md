@@ -2,9 +2,7 @@
 
 ### A passionate developer
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Amitoshdeep&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=Amitoshdeep&label=Profile%20views&color=0e75b6&style=flat&cache_seconds=3600)
 
 - 🔭 I'm currently working on **a fun spotify related project**
 
