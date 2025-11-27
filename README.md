@@ -2,8 +2,9 @@
 
 ### A passionate developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amitoshdeep&label=Profile views&color=0e75b6&style=flat" alt="Amitoshdeep" /> </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Amitoshdeep&label=Profile%20views&color=0e75b6&style=flat" alt="Amitoshdeep" />
+</p>
 - 🔭 I'm currently working on **a fun spotify related project**
 
 - 🌱 I'm currently learning **MERN Stack**
