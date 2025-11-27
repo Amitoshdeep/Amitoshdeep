@@ -2,8 +2,7 @@
 
 ### A passionate developer
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Amitoshdeep&count_bg=%230e75b6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
+![Profile views](https://komarev.com/ghpvc/?username=Amitoshdeep&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I'm currently working on **a fun spotify related project**
 
