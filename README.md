@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
-- 👨‍💻 All of my projects are available at **[https://amitx.netlify.app/](https://amitosh.site/)**
+- 👨‍💻 All of my projects are available at **[https://amitosh.site/](https://amitosh.site/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
