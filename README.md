@@ -17,11 +17,12 @@
 * Designed scalable backend APIs to handle high-volume link submissions
 * Built a fast, responsive UI optimized for performance and usability
 
-#### [Anonymous Voting System](#)
-**Weighted anonymous voting platform (concept + development)**
-* Designed a level-based voting system where influence scales with user progression
-* Implemented IP-based limitations to reduce spam and abuse
-* Built a system for public voting links with community-driven ranking
+#### [AuthenX](https://github.com/Amitoshdeep/AuthenX)
+**AI Hallucination Auditing & Verification Platform (Hack Helix 2026, TIET)**
+* Built a dual-LLM pipeline (Generator → Validator) using FastAPI and AWS Bedrock to generate structured outputs and iteratively validate factual accuracy, format compliance, and citation quality
+* Implemented asynchronous task workflows with status polling and streaming endpoints for real-time interaction
+* Developed dynamic React frontend with tool-specific renderers (charts, flowcharts, documents, PDF previews) and validation feedback visualization
+* Integrated DynamoDB persistence with in-memory fallback for development resilience and configurable validation pipelines
 
 ---
 
