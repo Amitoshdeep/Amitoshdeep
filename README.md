@@ -10,7 +10,7 @@
 
 | Category | Technologies |
 |:--|:--|
-| **Languages** | JavaScript (ES6+), TypeScript, C/C++, Python, SQL |
+| **Languages** | JavaScript (ES6+), TypeScript |
 | **Web & Backend** | React.js, Next.js, Node.js, Express.js |
 | **Databases** | MongoDB, PostgreSQL, MySQL |
 | **Tools & Platforms** | Git, Linux, Docker, Postman, Vercel, Netlify |
