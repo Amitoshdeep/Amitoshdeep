@@ -1,6 +1,6 @@
 # Amitoshdeep Singh
 
-**Infrastructure & Application Developer** focused on building scalable web systems and developer tools, with a curiosity for what happens beyond surface-level abstractions.
+**Infrastructure & Application Developer** building web systems, backend architectures, and developer tools. Interested in understanding how software works beneath the abstractions — from application logic to databases, infrastructure, and deployment.
 
 *ものづくり (Monozukuri) — The art of making things.*
 
@@ -10,18 +10,22 @@
 
 | Category | Technologies |
 |:--|:--|
-| **Languages** | JavaScript (ES6+), TypeScript |
-| **Web & Backend** | React.js, Next.js, Node.js, Express.js |
-| **Databases** | MongoDB, PostgreSQL, MySQL |
-| **Tools & Platforms** | Git, Linux, Docker, Postman, Vercel, Netlify |
+| **Languages** | JavaScript (ES6+), TypeScript, Python |
+| **Frontend** | React.js, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Databases & Caching** | MongoDB, PostgreSQL, MySQL, Redis |
+| **Infrastructure & DevOps** | Linux, Docker, AWS, CI/CD, GitHub Actions |
+| **Tools & Platforms** | Git, Postman, Vercel, Netlify |
 
 ---
 
 ### About Me
 
-I enjoy understanding how systems work rather than simply using them. I prefer building things from scratch when possible, gaining a deeper understanding of how different layers interact.
+I enjoy understanding systems beyond their surface-level abstractions. Whether it's designing an API, optimizing database queries, implementing caching strategies, or deploying applications, I like knowing what's happening underneath.
 
-Most of my work revolves around web platforms, backend systems, and developer tools, where I focus on writing clean, scalable, and maintainable software.
+I gravitate towards backend engineering, infrastructure, and developer tooling — building systems that are not only functional but also maintainable, efficient, and scalable.
+
+I believe the best way to learn technology is to build with it, break things, understand why they broke, and build them better.
 
 Outside development, you'll probably find me exploring technology, reading books, watching anime, or playing games.
 
